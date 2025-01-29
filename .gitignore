@@ -1,0 +1,19 @@
+__pycache__/
+venv
+data
+pycache
+.coverage
+coverage
+.pytest_cache
+.vscode
+.env
+env:Zone.Identifier
+# Django related
+*.log
+*.pot
+*.pyc
+__pycache__/
+*.py[cod]
+
+# Cache do cache_page
+*.cache
